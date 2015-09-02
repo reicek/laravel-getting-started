@@ -1,3 +1,11 @@
+# Getting started with Laravel
+###### by César Antón Dorantes <a href="https://twitter.com/reicek" target="_blank">@reicek</a>
+
+Web aplication to demostrate the basic usage of the Laravel framework
+
+<a href="https://platzi.com/blog/laravel-primer-app/" target="_blank">Tutorial</a>
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
